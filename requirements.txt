@@ -7,3 +7,4 @@ pymysql
 pytesseract
 Pillow
 opencv-python-headless
+reportlab
