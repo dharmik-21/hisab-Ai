@@ -6,3 +6,4 @@ sqlalchemy
 pymysql
 pytesseract
 Pillow
+opencv-python-headless
